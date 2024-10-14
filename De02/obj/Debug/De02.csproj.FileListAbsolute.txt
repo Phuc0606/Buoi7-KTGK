@@ -1,0 +1,15 @@
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\bin\Debug\De02.exe.config
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\bin\Debug\De02.exe
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\bin\Debug\De02.pdb
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\bin\Debug\EntityFramework.dll
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\bin\Debug\EntityFramework.xml
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\obj\Debug\De02.csproj.AssemblyReference.cache
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\obj\Debug\De02.frmSanpham.resources
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\obj\Debug\De02.Properties.Resources.resources
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\obj\Debug\De02.csproj.GenerateResource.cache
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\obj\Debug\De02.csproj.CoreCompileInputs.cache
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\obj\Debug\De02.csproj.Up2Date
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\obj\Debug\De02.exe
+C:\Users\Huynh Thanh Phuc\source\repos\HuynhThanhPhuc_2280602431\De02\obj\Debug\De02.pdb

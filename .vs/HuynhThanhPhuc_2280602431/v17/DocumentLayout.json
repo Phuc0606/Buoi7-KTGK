@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|c:\\users\\huynh thanh phuc\\source\\repos\\huynhthanhphuc_2280602431\\de02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|solutionrelative:de02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\de02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|solutionrelative:de02\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|c:\\users\\huynh thanh phuc\\source\\repos\\huynhthanhphuc_2280602431\\de02\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|solutionrelative:de02\\frmsanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\de02\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|solutionrelative:de02\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|c:\\users\\huynh thanh phuc\\source\\repos\\huynhthanhphuc_2280602431\\de02\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|solutionrelative:de02\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|c:\\users\\huynh thanh phuc\\source\\repos\\huynhthanhphuc_2280602431\\de02\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|solutionrelative:de02\\loaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\de02\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A667169-0628-4CCB-B2DE-309557D5155C}|De02\\De02.csproj|solutionrelative:de02\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiSP.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\LoaiSP.cs",
+              "RelativeDocumentMoniker": "De02\\LoaiSP.cs",
+              "ToolTip": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\LoaiSP.cs",
+              "RelativeToolTip": "De02\\LoaiSP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:57:10.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sanpham.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\Sanpham.cs",
+              "RelativeDocumentMoniker": "De02\\Sanpham.cs",
+              "ToolTip": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\Sanpham.cs",
+              "RelativeToolTip": "De02\\Sanpham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:55:40.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSanpham.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\frmSanpham.Designer.cs",
+              "RelativeDocumentMoniker": "De02\\frmSanpham.Designer.cs",
+              "ToolTip": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\frmSanpham.Designer.cs",
+              "RelativeToolTip": "De02\\frmSanpham.Designer.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAwwLkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:46:51.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\packages.config",
+              "RelativeDocumentMoniker": "De02\\packages.config",
+              "ToolTip": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\packages.config",
+              "RelativeToolTip": "De02\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-14T01:43:33.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\Model1.cs",
+              "RelativeDocumentMoniker": "De02\\Model1.cs",
+              "ToolTip": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\Model1.cs",
+              "RelativeToolTip": "De02\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:43:24.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSanpham.cs",
+              "DocumentMoniker": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\frmSanpham.cs",
+              "RelativeDocumentMoniker": "De02\\frmSanpham.cs",
+              "ToolTip": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\frmSanpham.cs",
+              "RelativeToolTip": "De02\\frmSanpham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:12:42.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSanpham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\frmSanpham.cs",
+              "RelativeDocumentMoniker": "De02\\frmSanpham.cs",
+              "ToolTip": "C:\\Users\\Huynh Thanh Phuc\\source\\repos\\HuynhThanhPhuc_2280602431\\De02\\frmSanpham.cs [Design]",
+              "RelativeToolTip": "De02\\frmSanpham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:02:11.671Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
